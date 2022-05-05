@@ -1,7 +1,5 @@
-text = "read" 
-while true; do
-  if [[ /bin/xsel != $text ]];then
-	  xsel |festival --tts
-    text = /bin/xsel
-	fi
+a=0
+while [[ $a -lt 3 ]] ; do
+        xsel |festival --tts
+        ((a++))
 done
