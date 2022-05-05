@@ -7,6 +7,11 @@ bash read.sh
 
 ```
 
-install dependencies as required with your package manager
+install dependencies
+
+ 1. xsel 
+ 2. festival 
+
+as required with your package manager
 
 copy something and it will be read out aloud
