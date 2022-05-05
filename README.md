@@ -7,5 +7,5 @@ sh read.sh
 
 ```
 
-install dependencies is required with package manager
+install dependencies as required with your package manager
 
